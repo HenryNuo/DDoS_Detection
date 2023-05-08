@@ -1,4 +1,4 @@
-# Evaluation-of-Models-Detecting-and-Mitigating-DDoS-Flow-Using-SDN-System
+# Evaluation of Models Detecting and Mitigating DDoS Flow Using SDN System
 The problem area:
 Keywords: SDN, ML, Security, DDos
 
